@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Petagram</string>
+    <string name="mNombre">nombre</string>
+    <string name="texto_boton_click">Click</string>
+    <string name="mensaje">Favorito :) </string>
+    <string name="titulo_tarjeta">Catty</string>
 </resources>
